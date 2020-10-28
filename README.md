@@ -62,3 +62,4 @@ public static void main(String []args){
   ```
   ![강사cafe] (링크URL "설명문구")  
   ```
+  ![무료이미지](https://github.com/2njoyur/E_HR_MARKDOWN/blob/main/ballet-5435391_1920.jpg "발레는 우아해")
